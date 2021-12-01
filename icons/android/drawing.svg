@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46667 135.46667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="/home/cwl/drawing_foreground.png"
+   inkscape:export-xdpi="960"
+   inkscape:export-ydpi="960"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.78125"
+     inkscape:cx="241.28"
+     inkscape:cy="156.8"
+     inkscape:window-width="1920"
+     inkscape:window-height="993"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g156294" />
+  <defs
+     id="defs2">
+    <rect
+       x="949.76"
+       y="892.16"
+       width="94.72"
+       height="51.2"
+       id="rect151290" />
+    <rect
+       x="0"
+       y="0"
+       width="948.48"
+       height="894.72"
+       id="rect5809" />
+    <rect
+       x="0"
+       y="0"
+       width="948.48"
+       height="894.72"
+       id="rect156282" />
+    <rect
+       x="949.76"
+       y="892.16"
+       width="94.72"
+       height="51.2"
+       id="rect156284" />
+    <rect
+       x="0"
+       y="0"
+       width="948.48"
+       height="894.72"
+       id="rect156296" />
+    <rect
+       x="949.76"
+       y="892.16"
+       width="94.72"
+       height="51.2"
+       id="rect156298" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter156790"
+       x="-0.018426104"
+       y="-0.03877551"
+       width="1.0573257"
+       height="1.0571429">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood156780" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite156782" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur156784" />
+      <feOffset
+         dx="8"
+         dy="-8"
+         result="offset"
+         id="feOffset156786" />
+      <feComposite
+         in="offset"
+         in2="offset"
+         operator="atop"
+         result="composite2"
+         id="feComposite156788" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Blur"
+       id="filter160004"
+       x="-0.030710173"
+       y="-0.030612245"
+       width="1.0614203"
+       height="1.0612245">
+      <feGaussianBlur
+         stdDeviation="5 5"
+         result="blur"
+         id="feGaussianBlur160002" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <rect
+       style="fill:#008cff;fill-opacity:1;stroke-width:0.264583"
+       id="rect161525"
+       width="168.31734"
+       height="163.91467"
+       x="-16.425333"
+       y="-14.224002" />
+  </g>
+  <g
+     inkscape:label="Shadow"
+     inkscape:groupmode="layer"
+     id="g156294"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       transform="matrix(0,0.26458334,-0.26458334,0,162.98333,15.64349)"
+       id="text156288"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:512px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Italic';white-space:pre;shape-inside:url(#rect156296);fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter156790)"><tspan
+         x="0"
+         y="453"
+         id="tspan887"><tspan
+           style="font-style:normal;font-family:'Lohit Gurmukhi';-inkscape-font-specification:'Lohit Gurmukhi';fill:#ffffff"
+           id="tspan885">◮</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458334)"
+       id="text156292"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect156298);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:label="Edge"
+     inkscape:groupmode="layer"
+     id="g156280"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       transform="matrix(0,0.26458334,-0.26458334,0,162.98333,15.64349)"
+       id="text156274"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:512px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Italic';white-space:pre;shape-inside:url(#rect156282);fill:#eaeaea;fill-opacity:1;stroke:none;filter:url(#filter160004)"><tspan
+         x="0"
+         y="453"
+         id="tspan891"><tspan
+           style="font-style:normal;font-family:'Lohit Gurmukhi';-inkscape-font-specification:'Lohit Gurmukhi'"
+           id="tspan889">◮</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458334)"
+       id="text156278"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect156284);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:label="Text"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       transform="matrix(0,0.26458334,-0.26458334,0,162.98333,15.304823)"
+       id="text5807"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:512px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Italic';white-space:pre;shape-inside:url(#rect5809);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="0"
+         y="453"
+         id="tspan895"><tspan
+           style="font-style:normal;font-family:'Lohit Gurmukhi';-inkscape-font-specification:'Lohit Gurmukhi';fill:#ffffff"
+           id="tspan893">◮</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458334)"
+       id="text151288"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect151290);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+</svg>
